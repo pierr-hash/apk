@@ -36,7 +36,7 @@ const HomeScreen = ({ navigation }) => {
               </Text>
               <Text style={styles.text}>
                 Un calcul exact pour un resultat exact , Car Ellips est une
-                touche de proffesionnels experimenter{" "}
+                touche de professionnels expérimentés{" "}
               </Text>
               <View style={styles.accueill}>
                 {/*  */}
