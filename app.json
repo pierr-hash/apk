@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Ellips",
+    "slug": "location",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Bienvenue.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Bienvenue.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pierremutamba.location"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b3fca6f4-0a30-4939-95f0-5ade3d22ca99"
+      }
+    }
+  }
+}
